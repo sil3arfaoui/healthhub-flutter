@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "403949433543",
+    "firebase_url": "https://test-h9j5t6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "test-h9j5t6",
+    "storage_bucket": "test-h9j5t6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403949433543:android:1b50e24c4c5e487a5d84e2",
+        "android_client_info": {
+          "package_name": "com.mycompany.userinterfacehomepage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACMSBomYpaMltbHDeC6lf3ApVVxnLiKkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403949433543:android:927725783ed38d005d84e2",
+        "android_client_info": {
+          "package_name": "com.thecalda.onboardingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACMSBomYpaMltbHDeC6lf3ApVVxnLiKkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
